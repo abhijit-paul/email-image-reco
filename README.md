@@ -14,12 +14,8 @@ Send email with image url to receive recognition details from Blippar's engine
 * Credentials:
   * serverToken: This is your server token from postmark service
   * senderEmail: This email has to be specifically registered with Postmark's inbound email service
- 
-# Demo screenshots:
-* ![EMAIL](https://goo.gl/vXSX5r "Sending Email to Postmark")
-* ![RECOGNITION](https://goo.gl/bTC8WW "Receiving recognition details in email")
 
 
 # 3rd party service
 * Blippar: https://developer.blippar.com/portal/vs-api/index/#demoSection
-* Textlocal: https://postmarkapp.com
+* Postmark: https://postmarkapp.com
